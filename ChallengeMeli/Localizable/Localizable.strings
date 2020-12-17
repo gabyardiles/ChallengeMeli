@@ -1,0 +1,9 @@
+
+//  Localizable.swift
+//  ChallengeMeli
+//
+//  Created by Graciela Gabriela Ardiles on 16/12/2020.
+//
+
+//MARK: - Search
+"SearchBarPlaceHolder" = "Buscar";

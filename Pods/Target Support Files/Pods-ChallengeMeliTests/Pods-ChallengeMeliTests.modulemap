@@ -1,0 +1,6 @@
+framework module Pods_ChallengeMeliTests {
+  umbrella header "Pods-ChallengeMeliTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

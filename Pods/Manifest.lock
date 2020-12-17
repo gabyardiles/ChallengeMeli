@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (5.4.0)
+  - AlamofireImage (4.1.0):
+    - Alamofire (~> 5.1)
+  - ReachabilitySwift (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - AlamofireImage (~> 4.1)
+  - ReachabilitySwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  AlamofireImage: c4a2ba349885fb3064feb74d2e547bd42ce9be10
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+
+PODFILE CHECKSUM: 3950981e11d9d7bef7be24df8b06a06ee32f6dab
+
+COCOAPODS: 1.10.0
