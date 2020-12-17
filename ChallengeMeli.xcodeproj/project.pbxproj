@@ -10,8 +10,6 @@
 		093CC0ED51BA1F2F33F4EA4A /* Pods_ChallengeMeli.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 21F4C5B4FC2800EF68366F07 /* Pods_ChallengeMeli.framework */; };
 		90E940C6EFBC35A9607DDD38 /* Pods_ChallengeMeli_ChallengeMeliUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEDCE1B1B0A4D8AC98733B52 /* Pods_ChallengeMeli_ChallengeMeliUITests.framework */; };
 		C4383D6B258983B20099DE51 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4383D6A258983B20099DE51 /* AppDelegate.swift */; };
-		C4383D6D258983B20099DE51 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4383D6C258983B20099DE51 /* SceneDelegate.swift */; };
-		C4383D6F258983B20099DE51 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4383D6E258983B20099DE51 /* ViewController.swift */; };
 		C4383D72258983B20099DE51 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4383D70258983B20099DE51 /* Main.storyboard */; };
 		C4383D74258983B30099DE51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4383D73258983B30099DE51 /* Assets.xcassets */; };
 		C4383D77258983B30099DE51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4383D75258983B30099DE51 /* LaunchScreen.storyboard */; };
@@ -23,6 +21,16 @@
 		C484FABF258ADF1600B34684 /* Localizable.strings in Sources */ = {isa = PBXBuildFile; fileRef = C484FABE258ADF1600B34684 /* Localizable.strings */; };
 		C484FAC0258ADF1600B34684 /* Localizable.strings in Sources */ = {isa = PBXBuildFile; fileRef = C484FABE258ADF1600B34684 /* Localizable.strings */; };
 		C484FAC1258ADF1600B34684 /* Localizable.strings in Sources */ = {isa = PBXBuildFile; fileRef = C484FABE258ADF1600B34684 /* Localizable.strings */; };
+		C484FADE258AE4E300B34684 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C484FADD258AE4E300B34684 /* MasterViewController.swift */; };
+		C484FADF258AE4E300B34684 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C484FADD258AE4E300B34684 /* MasterViewController.swift */; };
+		C484FAE0258AE4E300B34684 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C484FADD258AE4E300B34684 /* MasterViewController.swift */; };
+		C484FAE8258AE76800B34684 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C484FAE7258AE76800B34684 /* SearchView.swift */; };
+		C484FAE9258AE76800B34684 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C484FAE7258AE76800B34684 /* SearchView.swift */; };
+		C484FAEA258AE76800B34684 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C484FAE7258AE76800B34684 /* SearchView.swift */; };
+		C484FB04258AEAC500B34684 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C484FB03258AEAC500B34684 /* SceneDelegate.swift */; };
+		C484FB1A258AED7A00B34684 /* LocalizableUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = C484FB19258AED7A00B34684 /* LocalizableUtils.swift */; };
+		C484FB1B258AED7A00B34684 /* LocalizableUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = C484FB19258AED7A00B34684 /* LocalizableUtils.swift */; };
+		C484FB1C258AED7A00B34684 /* LocalizableUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = C484FB19258AED7A00B34684 /* LocalizableUtils.swift */; };
 		D759BEC24C6F6F8F316121B1 /* Pods_ChallengeMeliTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A29D0ED1D41A7DE47109D30 /* Pods_ChallengeMeliTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -52,8 +60,6 @@
 		B1FA85ADE54A5C09482A59ED /* Pods-ChallengeMeliTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChallengeMeliTests.debug.xcconfig"; path = "Target Support Files/Pods-ChallengeMeliTests/Pods-ChallengeMeliTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C4383D67258983B20099DE51 /* ChallengeMeli.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChallengeMeli.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4383D6A258983B20099DE51 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C4383D6C258983B20099DE51 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C4383D6E258983B20099DE51 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C4383D71258983B20099DE51 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C4383D73258983B30099DE51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4383D76258983B30099DE51 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -66,6 +72,10 @@
 		C4383D8E258983B30099DE51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C484FAB3258ADE3D00B34684 /* GlobalTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalTheme.swift; sourceTree = "<group>"; };
 		C484FABE258ADF1600B34684 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		C484FADD258AE4E300B34684 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		C484FAE7258AE76800B34684 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		C484FB03258AEAC500B34684 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SceneDelegate.swift; path = ChallengeMeli/SceneDelegate.swift; sourceTree = SOURCE_ROOT; };
+		C484FB19258AED7A00B34684 /* LocalizableUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizableUtils.swift; sourceTree = "<group>"; };
 		DD2407FC944C27CE2706C3DC /* Pods-ChallengeMeli.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChallengeMeli.release.xcconfig"; path = "Target Support Files/Pods-ChallengeMeli/Pods-ChallengeMeli.release.xcconfig"; sourceTree = "<group>"; };
 		DEDCE1B1B0A4D8AC98733B52 /* Pods_ChallengeMeli_ChallengeMeliUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ChallengeMeli_ChallengeMeliUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFCC1F6324C8EE24AA77E212 /* Pods-ChallengeMeliTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ChallengeMeliTests.release.xcconfig"; path = "Target Support Files/Pods-ChallengeMeliTests/Pods-ChallengeMeliTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -147,7 +157,7 @@
 				C484FAAB258ADCCA00B34684 /* Models */,
 				C484FAAA258ADC9700B34684 /* Services */,
 				C4383D6A258983B20099DE51 /* AppDelegate.swift */,
-				C4383D6C258983B20099DE51 /* SceneDelegate.swift */,
+				C484FB03258AEAC500B34684 /* SceneDelegate.swift */,
 				C4383D73258983B30099DE51 /* Assets.xcassets */,
 				C4383D78258983B30099DE51 /* Info.plist */,
 			);
@@ -196,7 +206,8 @@
 		C484FAAD258ADCFB00B34684 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				C4383D6E258983B20099DE51 /* ViewController.swift */,
+				C484FADD258AE4E300B34684 /* MasterViewController.swift */,
+				C484FAE7258AE76800B34684 /* SearchView.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -204,6 +215,7 @@
 		C484FAAF258ADDBD00B34684 /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
+				C484FB19258AED7A00B34684 /* LocalizableUtils.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -506,11 +518,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C484FB1A258AED7A00B34684 /* LocalizableUtils.swift in Sources */,
 				C484FAB4258ADE3D00B34684 /* GlobalTheme.swift in Sources */,
-				C4383D6F258983B20099DE51 /* ViewController.swift in Sources */,
+				C484FADE258AE4E300B34684 /* MasterViewController.swift in Sources */,
 				C484FABF258ADF1600B34684 /* Localizable.strings in Sources */,
 				C4383D6B258983B20099DE51 /* AppDelegate.swift in Sources */,
-				C4383D6D258983B20099DE51 /* SceneDelegate.swift in Sources */,
+				C484FAE8258AE76800B34684 /* SearchView.swift in Sources */,
+				C484FB04258AEAC500B34684 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -518,6 +532,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C484FB1B258AED7A00B34684 /* LocalizableUtils.swift in Sources */,
+				C484FAE9258AE76800B34684 /* SearchView.swift in Sources */,
+				C484FADF258AE4E300B34684 /* MasterViewController.swift in Sources */,
 				C484FAB5258ADE3D00B34684 /* GlobalTheme.swift in Sources */,
 				C484FAC0258ADF1600B34684 /* Localizable.strings in Sources */,
 				C4383D82258983B30099DE51 /* ChallengeMeliTests.swift in Sources */,
@@ -528,6 +545,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C484FB1C258AED7A00B34684 /* LocalizableUtils.swift in Sources */,
+				C484FAEA258AE76800B34684 /* SearchView.swift in Sources */,
+				C484FAE0258AE4E300B34684 /* MasterViewController.swift in Sources */,
 				C484FAB6258ADE3D00B34684 /* GlobalTheme.swift in Sources */,
 				C484FAC1258ADF1600B34684 /* Localizable.strings in Sources */,
 				C4383D8D258983B30099DE51 /* ChallengeMeliUITests.swift in Sources */,
